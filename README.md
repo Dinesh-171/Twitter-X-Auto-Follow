@@ -40,7 +40,7 @@ Follow these steps to install, extract, and run the LinkedIn Auto Connect extens
 
 3. **Build the Extensions : **:
    ```bash
-   cd TwitterExtension
+   cd Twitter-X-Auto-Follow
    npx wxt build
    npm install
 
