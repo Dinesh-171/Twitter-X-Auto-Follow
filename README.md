@@ -1,22 +1,22 @@
-# LinkedIn Auto Connect
+# Twitter/X Auto Follow
 
-![icon32](https://github.com/user-attachments/assets/a2944aa9-1281-4a5e-acd8-56249e4669ac)
+![icon32](https://github.com/user-attachments/assets/01083e9b-aa25-4af7-9823-b8922f0d8c97)
 
-**LinkedIn Auto Connect** is a browser extension that automates the process of sending connection requests on LinkedIn. Built using **React**, **JavaScript**, and the **wxt.dev** framework, this extension makes networking easier and faster.
+**Twitter/X Auto Follow** is a browser extension that automates the process of following peoples or pages on Twitter/X. Built using **React**, **JavaScript**, and the **wxt.dev** framework, this extension makes networking easier and faster.
 
 ## ScreenShots : 
-![Popup](https://github.com/user-attachments/assets/0c47bbae-fd50-48e8-88f8-81b23ca3340a)
+![popup](https://github.com/user-attachments/assets/def6ffe4-8872-464a-8dba-20ba75e1997d)
 
-![list](https://github.com/user-attachments/assets/be46766c-94b2-48b6-84d0-2846d9a2a91d)
+![list](https://github.com/user-attachments/assets/26a8c620-1da6-4ab6-9b69-ed6344bda873)
 
-![Details](https://github.com/user-attachments/assets/8b8ecd88-f7cf-419b-bd89-3521eae3619e)
+![extension](https://github.com/user-attachments/assets/72dd48e6-cbf6-4c5b-bef5-e9c8fae560da)
 
-![Button UI](https://github.com/user-attachments/assets/3d3eb41e-b92f-4261-84c9-f42b67a6576d)
+![button](https://github.com/user-attachments/assets/e32c806c-38fa-41ba-a4a7-94a786d8f7a8)
 
 
 ## Features
 
-- **Automated Connection Requests**: Quickly send connection requests to multiple LinkedIn profiles.
+- **Automated Follow**: Quickly Follow to multiple Twitter/X profiles.
 - **User-Friendly Interface**: Easy to navigate and use, enhancing the user experience.
 - **Adaptive Delay**: Incorporates random delays between requests to mimic human behavior and reduce detection risks.
 - **Real-Time Feedback**: Provides alerts and console logs during the connection process.
@@ -40,7 +40,7 @@ Follow these steps to install, extract, and run the LinkedIn Auto Connect extens
 
 3. **Build the Extensions : **:
    ```bash
-   cd linkedin-auto-connect
+   cd TwitterExtension
    npx wxt build
    npm install
 
@@ -53,6 +53,6 @@ Usage
 Once the extension is loaded, go to your LinkedIn account.
 
 Click on the **extension icon** in the toolbar and follow the
-and search for **'https://www.linkedin.com/mynetwork/grow/*'** on-screen instructions to start sending connection requests.
+and search for **'https://twitter.com/home'** on-screen instructions to start sending connection requests.
 Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
